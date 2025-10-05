@@ -1,0 +1,43 @@
+            GDEBuffData gdebuffData = new GDEBuffData(key);
+            int frameCount = Time.frameCount;
+            if (false && !this.pflag && BC==this.BChar && gdebuffData.Debuff && !gdebuffData.Hide && !hide && !(BC.BuffCheck.Lastbuff == key && BC.BuffCheck.TimeSeed == frameCount))
+            {
+
+                LastBuffRsisCheck lastBuffRsisCheck = new LastBuffRsisCheck();
+                lastBuffRsisCheck.TimeSeed = Time.frameCount;
+                lastBuffRsisCheck.Lastbuff = key;
+                lastBuffRsisCheck.IsAdd = false;
+
+                BC.BuffCheck = lastBuffRsisCheck;
+                BC.BuffCheck.PlusResist = true;
+
+                if(this.BChar.BuffFind("B_int_14",false))
+                {
+                    this.BChar.BuffAdd("B_int_14", this.BChar, false, 0, false, -1, false);
+
+                }
+                Bcl_int_14 bcl14 = this.BChar.BuffReturn("B_int_14", false) as Bcl_int_14;
+
+                BuffTag buffTag = new BuffTag();
+                buffTag.User = UseState;
+                buffTag.BuffData = gdebuffData;
+
+                bcl14.skill_Extended.TargetBuff.Add(buffTag.Clone());
+
+                this.pflag = true;
+            }
+            else if(false && this.pflag && BC == this.BChar && gdebuffData.Debuff && !gdebuffData.Hide && !hide && (BC.BuffCheck.Lastbuff == key && BC.BuffCheck.TimeSeed == frameCount)&& BC.BuffCheck.PlusResist)
+            {
+                if (this.BChar.BuffFind("B_int_14", false))
+                {
+                    this.BChar.BuffAdd("B_int_14", this.BChar, false, 0, false, -1, false);
+
+                }
+                Bcl_int_14 bcl14 = this.BChar.BuffReturn("B_int_14", false) as Bcl_int_14;
+
+                BuffTag buffTag = new BuffTag();
+                buffTag.User = UseState;
+                buffTag.BuffData = gdebuffData;
+
+                bcl14.skill_Extended.TargetBuff.Add(buffTag.Clone());
+            }

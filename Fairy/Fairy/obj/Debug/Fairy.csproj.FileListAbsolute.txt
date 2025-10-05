@@ -1,0 +1,12 @@
+D:\VS\program\Fairy\Fairy\bin\Debug\Fairy.dll
+D:\VS\program\Fairy\Fairy\bin\Debug\Fairy.pdb
+D:\VS\program\Fairy\Fairy\obj\Debug\Fairy.csproj.AssemblyReference.cache
+D:\VS\program\Fairy\Fairy\obj\Debug\Fairy.csproj.CoreCompileInputs.cache
+D:\VS\program\Fairy\Fairy\obj\Debug\Fairy.dll
+D:\VS\program\Fairy\Fairy\obj\Debug\Fairy.pdb
+D:\VS\Fairy\Fairy\bin\Debug\Fairy.dll
+D:\VS\Fairy\Fairy\bin\Debug\Fairy.pdb
+D:\VS\Fairy\Fairy\obj\Debug\Fairy.csproj.AssemblyReference.cache
+D:\VS\Fairy\Fairy\obj\Debug\Fairy.csproj.CoreCompileInputs.cache
+D:\VS\Fairy\Fairy\obj\Debug\Fairy.dll
+D:\VS\Fairy\Fairy\obj\Debug\Fairy.pdb

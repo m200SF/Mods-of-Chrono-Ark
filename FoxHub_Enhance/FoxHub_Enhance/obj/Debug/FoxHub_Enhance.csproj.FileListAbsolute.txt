@@ -1,0 +1,6 @@
+D:\VS\program\FoxHub_Enhance\FoxHub_Enhance\bin\Debug\FoxHub_Enhance.dll
+D:\VS\program\FoxHub_Enhance\FoxHub_Enhance\bin\Debug\FoxHub_Enhance.pdb
+D:\VS\program\FoxHub_Enhance\FoxHub_Enhance\obj\Debug\FoxHub_Enhance.csproj.AssemblyReference.cache
+D:\VS\program\FoxHub_Enhance\FoxHub_Enhance\obj\Debug\FoxHub_Enhance.csproj.CoreCompileInputs.cache
+D:\VS\program\FoxHub_Enhance\FoxHub_Enhance\obj\Debug\FoxHub_Enhance.dll
+D:\VS\program\FoxHub_Enhance\FoxHub_Enhance\obj\Debug\FoxHub_Enhance.pdb
