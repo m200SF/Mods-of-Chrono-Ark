@@ -1,0 +1,12 @@
+D:\VS\program\SkillScroll\SkillScroll\bin\Debug\SkillScroll.dll
+D:\VS\program\SkillScroll\SkillScroll\bin\Debug\SkillScroll.pdb
+D:\VS\program\SkillScroll\SkillScroll\obj\Debug\SkillScroll.csproj.AssemblyReference.cache
+D:\VS\program\SkillScroll\SkillScroll\obj\Debug\SkillScroll.csproj.CoreCompileInputs.cache
+D:\VS\program\SkillScroll\SkillScroll\obj\Debug\SkillScroll.dll
+D:\VS\program\SkillScroll\SkillScroll\obj\Debug\SkillScroll.pdb
+D:\VS\SkillScroll\SkillScroll\bin\Debug\SkillScroll.dll
+D:\VS\SkillScroll\SkillScroll\bin\Debug\SkillScroll.pdb
+D:\VS\SkillScroll\SkillScroll\obj\Debug\SkillScroll.csproj.AssemblyReference.cache
+D:\VS\SkillScroll\SkillScroll\obj\Debug\SkillScroll.csproj.CoreCompileInputs.cache
+D:\VS\SkillScroll\SkillScroll\obj\Debug\SkillScroll.dll
+D:\VS\SkillScroll\SkillScroll\obj\Debug\SkillScroll.pdb

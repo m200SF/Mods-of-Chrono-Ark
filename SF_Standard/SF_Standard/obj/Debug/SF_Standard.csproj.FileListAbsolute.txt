@@ -1,0 +1,12 @@
+D:\VS\program\SF_Standard\SF_Standard\obj\Debug\SF_Standard.csproj.AssemblyReference.cache
+D:\VS\program\SF_Standard\SF_Standard\obj\Debug\SF_Standard.csproj.CoreCompileInputs.cache
+D:\VS\SF_Standard\SF_Standard\obj\Debug\SF_Standard.csproj.AssemblyReference.cache
+D:\VS\SF_Standard\SF_Standard\obj\Debug\SF_Standard.csproj.CoreCompileInputs.cache
+D:\VS\program\SF_Standard\SF_Standard\bin\Debug\0SF_Standard.dll
+D:\VS\program\SF_Standard\SF_Standard\bin\Debug\0SF_Standard.pdb
+D:\VS\program\SF_Standard\SF_Standard\obj\Debug\0SF_Standard.dll
+D:\VS\program\SF_Standard\SF_Standard\obj\Debug\0SF_Standard.pdb
+D:\VS\SF_Standard\SF_Standard\bin\Debug\0SF_Standard.dll
+D:\VS\SF_Standard\SF_Standard\bin\Debug\0SF_Standard.pdb
+D:\VS\SF_Standard\SF_Standard\obj\Debug\0SF_Standard.dll
+D:\VS\SF_Standard\SF_Standard\obj\Debug\0SF_Standard.pdb

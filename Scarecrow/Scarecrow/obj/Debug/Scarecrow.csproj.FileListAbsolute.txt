@@ -1,0 +1,10 @@
+D:\VS\program\Scarecrow\Scarecrow\bin\Debug\Scarecrow.dll
+D:\VS\program\Scarecrow\Scarecrow\bin\Debug\Scarecrow.pdb
+D:\VS\program\Scarecrow\Scarecrow\obj\Debug\Scarecrow.csproj.AssemblyReference.cache
+D:\VS\program\Scarecrow\Scarecrow\obj\Debug\Scarecrow.csproj.CoreCompileInputs.cache
+D:\VS\program\Scarecrow\Scarecrow\obj\Debug\Scarecrow.dll
+D:\VS\program\Scarecrow\Scarecrow\obj\Debug\Scarecrow.pdb
+D:\VS\program\Scarecrow\Scarecrow\bin\Debug\Unity.Addressables.dll
+D:\VS\program\Scarecrow\Scarecrow\obj\Debug\Scarecrow.csproj.Up2Date
+D:\VS\program\Scarecrow\Scarecrow\bin\Debug\0SF_Standard.dll
+D:\VS\program\Scarecrow\Scarecrow\bin\Debug\0SF_Standard.pdb

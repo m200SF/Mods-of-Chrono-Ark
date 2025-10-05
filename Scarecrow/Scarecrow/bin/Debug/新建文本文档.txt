@@ -1,0 +1,24 @@
+        public void SkillUse(Skill SkillD, List<BattleChar> Targets)// IP_SkillUse_User
+        {
+
+            this.Recharge += Math.Max(SkillD.UsedApNum,1);
+
+            int stack = 0;
+            if(this.BChar.BuffFind("B_scr_p",false))
+            {
+                stack = this.BChar.BuffReturn("B_scr_p", false).StackNum;
+            }
+
+            if(this.Recharge>1*stack)
+            {
+                this.BChar.BuffAdd("B_scr_p", this.BChar, false, 0, false, -1, false);
+                this.Recharge = 0;
+            }
+
+            if (this.BChar.BuffFind("B_scr_p", false))
+            {
+                Bcl_scr_p co = this.BChar.BuffReturn("B_scr_p") as Bcl_scr_p;
+                co.Recharge = this.Recharge;
+            }
+        }
+        private int Recharge = 0;
