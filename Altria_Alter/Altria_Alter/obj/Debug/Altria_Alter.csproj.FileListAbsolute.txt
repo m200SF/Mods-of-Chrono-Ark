@@ -1,0 +1,10 @@
+D:\VS\program\Altria_Alter\Altria_Alter\bin\Debug\Altria_Alter.dll
+D:\VS\program\Altria_Alter\Altria_Alter\bin\Debug\Altria_Alter.pdb
+D:\VS\program\Altria_Alter\Altria_Alter\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\VS\program\Altria_Alter\Altria_Alter\bin\Debug\UnityEngine.UI.dll
+D:\VS\program\Altria_Alter\Altria_Alter\obj\Debug\Altria_Alter.csproj.AssemblyReference.cache
+D:\VS\program\Altria_Alter\Altria_Alter\obj\Debug\Altria_Alter.csproj.CoreCompileInputs.cache
+D:\VS\program\Altria_Alter\Altria_Alter\obj\Debug\Altria_A.D997BBF2.Up2Date
+D:\VS\program\Altria_Alter\Altria_Alter\obj\Debug\Altria_Alter.dll
+D:\VS\program\Altria_Alter\Altria_Alter\obj\Debug\Altria_Alter.pdb
+D:\VS\program\Altria_Alter\Altria_Alter\bin\Debug\Unity.Addressables.dll

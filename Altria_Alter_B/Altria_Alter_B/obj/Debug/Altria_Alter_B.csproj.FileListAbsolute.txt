@@ -1,0 +1,16 @@
+D:\VS\program\Altria_Alter_B\Altria_Alter_B\bin\Debug\Altria_Alter_B.dll
+D:\VS\program\Altria_Alter_B\Altria_Alter_B\bin\Debug\Altria_Alter_B.pdb
+D:\VS\program\Altria_Alter_B\Altria_Alter_B\obj\Debug\Altria_Alter_B.csproj.AssemblyReference.cache
+D:\VS\program\Altria_Alter_B\Altria_Alter_B\obj\Debug\Altria_Alter_B.csproj.CoreCompileInputs.cache
+D:\VS\program\Altria_Alter_B\Altria_Alter_B\obj\Debug\Altria_Alter_B.dll
+D:\VS\program\Altria_Alter_B\Altria_Alter_B\obj\Debug\Altria_Alter_B.pdb
+D:\VS\program\Altria_Alter_B\Altria_Alter_B\bin\Debug\0Harmony.dll
+D:\VS\program\Altria_Alter_B\Altria_Alter_B\obj\Debug\Altria_A.0EC70588.Up2Date
+D:\VS\Altria_Alter_B\Altria_Alter_B\bin\Debug\Altria_Alter_B.dll
+D:\VS\Altria_Alter_B\Altria_Alter_B\bin\Debug\Altria_Alter_B.pdb
+D:\VS\Altria_Alter_B\Altria_Alter_B\bin\Debug\0Harmony.dll
+D:\VS\Altria_Alter_B\Altria_Alter_B\obj\Debug\Altria_Alter_B.csproj.AssemblyReference.cache
+D:\VS\Altria_Alter_B\Altria_Alter_B\obj\Debug\Altria_Alter_B.csproj.CoreCompileInputs.cache
+D:\VS\Altria_Alter_B\Altria_Alter_B\obj\Debug\Altria_A.0EC70588.Up2Date
+D:\VS\Altria_Alter_B\Altria_Alter_B\obj\Debug\Altria_Alter_B.dll
+D:\VS\Altria_Alter_B\Altria_Alter_B\obj\Debug\Altria_Alter_B.pdb

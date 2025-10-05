@@ -1,0 +1,15 @@
+D:\VS\Agent\Agent\bin\Debug\Agent.dll
+D:\VS\Agent\Agent\bin\Debug\Agent.pdb
+D:\VS\Agent\Agent\obj\Debug\Agent.csproj.AssemblyReference.cache
+D:\VS\Agent\Agent\obj\Debug\Agent.csproj.CoreCompileInputs.cache
+D:\VS\Agent\Agent\obj\Debug\Agent.dll
+D:\VS\Agent\Agent\obj\Debug\Agent.pdb
+D:\VS\program\Agent\Agent\obj\Debug\Agent.csproj.AssemblyReference.cache
+D:\VS\program\Agent\Agent\obj\Debug\Agent.csproj.CoreCompileInputs.cache
+D:\VS\program\Agent\Agent\bin\Debug\0SF_Standard.dll
+D:\VS\program\Agent\Agent\bin\Debug\0SF_Standard.pdb
+D:\VS\program\Agent\Agent\obj\Debug\Agent.csproj.Up2Date
+D:\VS\program\Agent\Agent\bin\Debug\Agent.dll
+D:\VS\program\Agent\Agent\bin\Debug\Agent.pdb
+D:\VS\program\Agent\Agent\obj\Debug\Agent.dll
+D:\VS\program\Agent\Agent\obj\Debug\Agent.pdb

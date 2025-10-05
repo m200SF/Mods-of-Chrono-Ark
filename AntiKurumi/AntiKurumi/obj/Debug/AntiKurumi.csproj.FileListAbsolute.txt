@@ -1,0 +1,6 @@
+D:\VS\program\AntiKurumi\AntiKurumi\bin\Debug\AntiKurumi.dll
+D:\VS\program\AntiKurumi\AntiKurumi\bin\Debug\AntiKurumi.pdb
+D:\VS\program\AntiKurumi\AntiKurumi\obj\Debug\AntiKurumi.csproj.AssemblyReference.cache
+D:\VS\program\AntiKurumi\AntiKurumi\obj\Debug\AntiKurumi.csproj.CoreCompileInputs.cache
+D:\VS\program\AntiKurumi\AntiKurumi\obj\Debug\AntiKurumi.dll
+D:\VS\program\AntiKurumi\AntiKurumi\obj\Debug\AntiKurumi.pdb
