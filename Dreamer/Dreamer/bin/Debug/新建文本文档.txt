@@ -1,0 +1,28 @@
+        public void IsSelect_Before(BattleChar Target, Skill skill)
+        {
+            Debug.Log("Select测试点1");
+            Debug.Log("Select:" + Target.Info.Name+"buff数量"+ Target.Buffs.Count);
+            foreach (Buff buff in Target.Buffs)
+            {
+                //Debug.Log("Select测试点2");
+                if (buff.PlusStat.Vanish ==true)
+                {
+                    //Debug.Log("Select测试点3");
+                    buff.PlusStat.Vanish = false;
+                    Debug.Log("无视隐匿:Select");
+                    this.buffs1.Add(buff);
+                }
+            }
+            //Debug.Log("Select测试点4");
+        }
+        public void IsSelect_After(BattleChar Target, Skill skill)
+        {
+            foreach (Buff buff in this.buffs1)
+            {
+                buff.PlusStat.Vanish = true;
+                Debug.Log("隐匿恢复:Select");
+            }
+            this.buffs1.Clear();
+        }
+        private List<Buff> buffs1 = new List<Buff>();
+        //......................................

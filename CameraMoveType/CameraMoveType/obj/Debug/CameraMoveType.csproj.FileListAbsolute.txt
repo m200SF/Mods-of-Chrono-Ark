@@ -1,0 +1,6 @@
+D:\VS\program\CameraMoveType\CameraMoveType\bin\Debug\CameraMoveType.dll
+D:\VS\program\CameraMoveType\CameraMoveType\bin\Debug\CameraMoveType.pdb
+D:\VS\program\CameraMoveType\CameraMoveType\obj\Debug\CameraMoveType.csproj.AssemblyReference.cache
+D:\VS\program\CameraMoveType\CameraMoveType\obj\Debug\CameraMoveType.csproj.CoreCompileInputs.cache
+D:\VS\program\CameraMoveType\CameraMoveType\obj\Debug\CameraMoveType.dll
+D:\VS\program\CameraMoveType\CameraMoveType\obj\Debug\CameraMoveType.pdb
