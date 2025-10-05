@@ -1,0 +1,11 @@
+D:\VS\program\Paradise_Enemy\Paradise_Enemy\bin\Debug\Paradise_Enemy.dll
+D:\VS\program\Paradise_Enemy\Paradise_Enemy\bin\Debug\Paradise_Enemy.pdb
+D:\VS\program\Paradise_Enemy\Paradise_Enemy\obj\Debug\Paradise_Enemy.csproj.AssemblyReference.cache
+D:\VS\program\Paradise_Enemy\Paradise_Enemy\obj\Debug\Paradise_Enemy.csproj.CoreCompileInputs.cache
+D:\VS\program\Paradise_Enemy\Paradise_Enemy\obj\Debug\Paradise_Enemy.dll
+D:\VS\program\Paradise_Enemy\Paradise_Enemy\obj\Debug\Paradise_Enemy.pdb
+D:\VS\program\Paradise_Enemy\Paradise_Enemy\bin\Debug\0SF_Standard.dll
+D:\VS\program\Paradise_Enemy\Paradise_Enemy\bin\Debug\Paradise_Basic.dll
+D:\VS\program\Paradise_Enemy\Paradise_Enemy\bin\Debug\0SF_Standard.pdb
+D:\VS\program\Paradise_Enemy\Paradise_Enemy\bin\Debug\Paradise_Basic.pdb
+D:\VS\program\Paradise_Enemy\Paradise_Enemy\obj\Debug\Paradise.57A5852D.Up2Date

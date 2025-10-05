@@ -1,0 +1,6 @@
+D:\VS\program\Ouroboros\Ouroboros\bin\Debug\Ouroboros.dll
+D:\VS\program\Ouroboros\Ouroboros\bin\Debug\Ouroboros.pdb
+D:\VS\program\Ouroboros\Ouroboros\obj\Debug\Ouroboros.csproj.AssemblyReference.cache
+D:\VS\program\Ouroboros\Ouroboros\obj\Debug\Ouroboros.csproj.CoreCompileInputs.cache
+D:\VS\program\Ouroboros\Ouroboros\obj\Debug\Ouroboros.dll
+D:\VS\program\Ouroboros\Ouroboros\obj\Debug\Ouroboros.pdb

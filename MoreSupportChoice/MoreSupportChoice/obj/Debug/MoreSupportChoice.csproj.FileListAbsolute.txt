@@ -1,0 +1,12 @@
+D:\VS\program\MoreSupportChoice\MoreSupportChoice\obj\Debug\MoreSupportChoice.csproj.AssemblyReference.cache
+D:\VS\program\MoreSupportChoice\MoreSupportChoice\obj\Debug\MoreSupportChoice.csproj.CoreCompileInputs.cache
+D:\VS\program\MoreSupportChoice\MoreSupportChoice\bin\Debug\MoreSupportChoice.dll
+D:\VS\program\MoreSupportChoice\MoreSupportChoice\bin\Debug\MoreSupportChoice.pdb
+D:\VS\program\MoreSupportChoice\MoreSupportChoice\obj\Debug\MoreSupportChoice.dll
+D:\VS\program\MoreSupportChoice\MoreSupportChoice\obj\Debug\MoreSupportChoice.pdb
+D:\VS\MoreSupportChoice\MoreSupportChoice\bin\Debug\MoreSupportChoice.dll
+D:\VS\MoreSupportChoice\MoreSupportChoice\bin\Debug\MoreSupportChoice.pdb
+D:\VS\MoreSupportChoice\MoreSupportChoice\obj\Debug\MoreSupportChoice.csproj.AssemblyReference.cache
+D:\VS\MoreSupportChoice\MoreSupportChoice\obj\Debug\MoreSupportChoice.csproj.CoreCompileInputs.cache
+D:\VS\MoreSupportChoice\MoreSupportChoice\obj\Debug\MoreSupportChoice.dll
+D:\VS\MoreSupportChoice\MoreSupportChoice\obj\Debug\MoreSupportChoice.pdb

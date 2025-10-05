@@ -1,0 +1,6 @@
+D:\VS\program\MirrorImageFixed\MirrorImageFixed\bin\Debug\MirrorImageFixed.dll
+D:\VS\program\MirrorImageFixed\MirrorImageFixed\bin\Debug\MirrorImageFixed.pdb
+D:\VS\program\MirrorImageFixed\MirrorImageFixed\obj\Debug\MirrorImageFixed.csproj.AssemblyReference.cache
+D:\VS\program\MirrorImageFixed\MirrorImageFixed\obj\Debug\MirrorImageFixed.csproj.CoreCompileInputs.cache
+D:\VS\program\MirrorImageFixed\MirrorImageFixed\obj\Debug\MirrorImageFixed.dll
+D:\VS\program\MirrorImageFixed\MirrorImageFixed\obj\Debug\MirrorImageFixed.pdb
